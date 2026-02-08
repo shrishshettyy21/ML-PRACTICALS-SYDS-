@@ -245,3 +245,5 @@ elif choice.startswith("Practical 5"):
     practical_5()
 elif choice.startswith("Practical 6"):
     practical_6()
+ elif choice.startswith("Practical 7"):
+    practical_7()
